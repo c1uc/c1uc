@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Rui-Teng Lin (林睿騰), currently studying in National Yang Ming Chiao Tung University, and my major is Computer Science.
+You can also call me c1uc as nickname.
+
+I'm currently learning Artifical Intelligence, such as Natural Language Process, Reinforcement Learning, and Machine Learning.
 <!--
 **c1uc/c1uc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
