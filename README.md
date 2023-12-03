@@ -2,7 +2,7 @@
 
 I'm Rui-Teng Lin (林睿騰), currently studying in National Yang Ming Chiao Tung University, major in Computer Science.
 
-I'm currently learning Artifical Intelligence, such as Natural Language Process, Reinforcement Learning, and Machine Learning.
+I'm learning Artifical Intelligence, such as Natural Language Process, Reinforcement Learning, and Machine Learning.
 <!--
 **c1uc/c1uc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
